@@ -7,10 +7,10 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DotSpatial.Projections")]
+//[assembly: AssemblyTitle("DotSpatial.Projections")]
 [assembly: AssemblyDescription("For working with Projections and coordinate systems. A port of the popular proj4 C++ library to C#.")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyProduct("DotSpatial.Projections")]
+//[assembly: AssemblyConfiguration("")]
+//[assembly: AssemblyProduct("DotSpatial.Projections")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 // Assembly marked as compliant.
